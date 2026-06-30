@@ -1,0 +1,15 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "adr-serrurier-floirac.vercel.app"
+        }
+      ],
+      "destination": "https://adr-serrurier-floirac.fr/$1",
+      "permanent": true
+    }
+  ]
+}
