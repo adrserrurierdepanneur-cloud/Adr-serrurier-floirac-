@@ -14,5 +14,20 @@
     <loc>https://adr-serrurier-floirac.fr/serrurier-lormont</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-  </url>
+  </url> 
+  <url>
+  <loc>https://adr-serrurier-floirac.fr/serrurier-begles</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://adr-serrurier-floirac.fr/serrurier-bordeaux</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://adr-serrurier-floirac.fr/serrurier-talence</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+</url>
 </urlset>
